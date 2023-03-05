@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Comes from ChatGPT
+
 getUUID() {
     echo ""
     uuid_regex='^[[:xdigit:]]{8}-[[:xdigit:]]{4}-[[:xdigit:]]{4}-[[:xdigit:]]{4}-[[:xdigit:]]{12}$'

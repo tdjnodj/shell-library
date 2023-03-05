@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Comes from https://github.com/taffychan/naive
+
 install_go() {
     # CPU
     bit=`uname -m`
